@@ -31,20 +31,11 @@ En esta mentoría trataremos de responder algunas de las siguientes preguntas:
 
 Hitos previstos de la mentoría
 
-22/6 práctico de análisis y visualización, para entender los patrones de las lluvias máximas diarias anuales (PMDA) en distintas estaciones de la Provincia, se espera:
-
--	Entender qué distribución de probabilidades representan a los datos
-
--	¿Cambian los estadísticos en función de la altura o latitud y longitud de la estación?
-
--	¿Existen tendencias temporales en las series de PMDA?
-
-
 Entrega 20/05 - Práctico de análisis y visualización, para entender los patrones de las lluvias máximas diarias anuales (PMDA) en distintas estaciones de la Provincia, se espera:
 -	Entender qué distribución de probabilidades representan a los datos,
 -	¿Cambian los estadísticos en función de la altura o latitud y longitud de la estación?
 -	¿Existen tendencias temporales en las series de PMDA?
--	
+	
 Entrega 17/06 - Práctico de análisis y curación, consistirá en cuantificar en cada estación el número de datos faltantes respecto al total de datos y evaluar la metodología ideal para tratarlos.
 
 Entrega 24/06 - Video de presentación intermedia del proyecto y dataset
